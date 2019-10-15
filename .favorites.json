@@ -1,0 +1,38 @@
+[
+    {
+        "type": "File",
+        "name": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\app-routing.module.ts",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\app-routing.module.ts",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "hqQCft31b9gye6XW"
+    },
+    {
+        "type": "File",
+        "name": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\app.module.ts",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\app.module.ts",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "Uv7rVSeTum8dqXPc"
+    },
+    {
+        "type": "File",
+        "name": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\components\\components.module.ts",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\components\\components.module.ts",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "F6MYJqHns0ZW98Le"
+    },
+    {
+        "type": "File",
+        "name": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\components\\header\\header.component.html",
+        "parent_id": null,
+        "fsPath": "c:\\laragon\\www\\aaa-ionic\\clase-componentes\\src\\app\\components\\header\\header.component.html",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "cbBIj594mKi3E2Wh"
+    }
+]
